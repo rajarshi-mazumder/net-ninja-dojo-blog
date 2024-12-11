@@ -1,0 +1,269 @@
+{"blogs":[
+    {
+      "title": "Raditz Saga",
+      "body": "Raditz arrives on earth",
+      "author": "Akira Toriyama",
+      "id": 1,
+      "year": 1989
+    },
+    {
+      "title": "Saiyan Saga",
+      "body": "Vegeta and Nappa arrive on earth",
+      "author": "Akira Toriyama",
+      "id": 2,
+      "year": 1990
+    },
+    {
+      "title": "Namek Saga",
+      "body": "Earth's special forces travel to Namek",
+      "author": "Akira Toriyama",
+      "id": 3,
+      "year": 1990
+    },
+    {
+      "title": "Ginyu Force Saga",
+      "body": "Ginyu Force challenges Earth's fighters",
+      "author": "Akira Toriyama",
+      "id": 4,
+      "year": 1991
+    },
+    {
+      "title": "Frieza Saga",
+      "body": "Frieza faces Goku in an epic battle",
+      "author": "Akira Toriyama",
+      "id": 5,
+      "year": 1991
+    },
+    {
+      "title": "Garlic Jr. Saga",
+      "body": "Garlic Jr. attempts to take over Earth",
+      "author": "Akira Toriyama",
+      "id": 6,
+      "year": 1991
+    },
+    {
+      "title": "Android Saga",
+      "body": "The Androids wreak havoc on Earth",
+      "author": "Akira Toriyama",
+      "id": 7,
+      "year": 1992
+    },
+    {
+      "title": "Cell Saga",
+      "body": "Cell threatens Earth with his power",
+      "author": "Akira Toriyama",
+      "id": 8,
+      "year": 1992
+    },
+    {
+      "title": "Majin Buu Saga",
+      "body": "Majin Buu's destruction spans the galaxy",
+      "author": "Akira Toriyama",
+      "id": 9,
+      "year": 1993
+    },
+    {
+      "title": "Universal Survival Saga",
+      "body": "A multiverse tournament determines survival",
+      "author": "Akira Toriyama",
+      "id": 10,
+      "year": 1995
+    },
+    {
+      "title": "Battle of Gods",
+      "body": "Beerus seeks a worthy opponent",
+      "author": "Akira Toriyama",
+      "id": 11,
+      "year": 2013
+    },
+    {
+      "title": "Resurrection 'F'",
+      "body": "Frieza is resurrected for revenge",
+      "author": "Akira Toriyama",
+      "id": 12,
+      "year": 2015
+    },
+    {
+      "title": "Broly Saga",
+      "body": "The Legendary Saiyan faces Goku and Vegeta",
+      "author": "Akira Toriyama",
+      "id": 13,
+      "year": 2018
+    },
+    {
+      "title": "Black Goku Saga",
+      "body": "Goku Black causes chaos in future timelines",
+      "author": "Akira Toriyama",
+      "id": 14,
+      "year": 2016
+    },
+    {
+      "title": "Future Trunks Saga",
+      "body": "Trunks returns to warn of a future threat",
+      "author": "Akira Toriyama",
+      "id": 15,
+      "year": 2016
+    },
+    {
+      "title": "Tournament of Power",
+      "body": "Universes clash in a high-stakes battle",
+      "author": "Akira Toriyama",
+      "id": 16,
+      "year": 2017
+    },
+    {
+      "title": "Pilaf Saga",
+      "body": "Emperor Pilaf hunts for the Dragon Balls",
+      "author": "Akira Toriyama",
+      "id": 17,
+      "year": 1986
+    },
+    {
+      "title": "Red Ribbon Army Saga",
+      "body": "Goku faces the notorious Red Ribbon Army",
+      "author": "Akira Toriyama",
+      "id": 18,
+      "year": 1986
+    },
+    {
+      "title": "Fortuneteller Baba Saga",
+      "body": "Baba helps find the final Dragon Ball",
+      "author": "Akira Toriyama",
+      "id": 19,
+      "year": 1987
+    },
+    {
+      "title": "Tien Shinhan Saga",
+      "body": "Goku meets Tien in a martial arts tournament",
+      "author": "Akira Toriyama",
+      "id": 20,
+      "year": 1987
+    },
+    {
+      "title": "Piccolo Saga",
+      "body": "Piccolo emerges as Earth's next big threat",
+      "author": "Akira Toriyama",
+      "id": 21,
+      "year": 1988
+    },
+    {
+      "title": "23rd Martial Arts Tournament",
+      "body": "Goku and Piccolo face off in a tournament",
+      "author": "Akira Toriyama",
+      "id": 22,
+      "year": 1989
+    },
+    {
+      "title": "Great Saiyaman Saga",
+      "body": "Gohan becomes the masked hero, Great Saiyaman",
+      "author": "Akira Toriyama",
+      "id": 23,
+      "year": 1993
+    },
+    {
+      "title": "Babidi Saga",
+      "body": "Babidi awakens Majin Buu",
+      "author": "Akira Toriyama",
+      "id": 24,
+      "year": 1994
+    },
+    {
+      "title": "Shadow Dragon Saga",
+      "body": "Goku battles the seven shadow dragons",
+      "author": "Akira Toriyama",
+      "id": 25,
+      "year": 1996
+    },
+    {
+      "title": "Baby Saga",
+      "body": "Baby seeks revenge against Saiyans",
+      "author": "Akira Toriyama",
+      "id": 26,
+      "year": 1997
+    },
+    {
+      "title": "Super 17 Saga",
+      "body": "Super 17 challenges Earth's fighters",
+      "author": "Akira Toriyama",
+      "id": 27,
+      "year": 1997
+    },
+    {
+      "title": "Evil Dragons Saga",
+      "body": "Earth's overuse of Dragon Balls creates evil",
+      "author": "Akira Toriyama",
+      "id": 28,
+      "year": 1998
+    },
+    {
+      "title": "World Tournament Saga",
+      "body": "Fighters compete in the World Tournament",
+      "author": "Akira Toriyama",
+      "id": 29,
+      "year": 1993
+    },
+    {
+      "title": "Junior Division Saga",
+      "body": "Goten and Trunks dominate the Junior Division",
+      "author": "Akira Toriyama",
+      "id": 30,
+      "year": 1993
+    },
+    {
+      "title": "Kaioshin Saga",
+      "body": "The Supreme Kai reveals secrets of the universe",
+      "author": "Akira Toriyama",
+      "id": 31,
+      "year": 1994
+    },
+    {
+      "title": "Ultimate Gohan Saga",
+      "body": "Gohan unleashes his ultimate power",
+      "author": "Akira Toriyama",
+      "id": 32,
+      "year": 1994
+    },
+    {
+      "title": "Fusion Reborn Saga",
+      "body": "Goku and Vegeta fuse to defeat Janemba",
+      "author": "Akira Toriyama",
+      "id": 33,
+      "year": 1995
+    },
+    {
+      "title": "Tree of Might Saga",
+      "body": "The Tree of Might threatens Earth's life force",
+      "author": "Akira Toriyama",
+      "id": 34,
+      "year": 1990
+    },
+    {
+      "title": "Lord Slug Saga",
+      "body": "Lord Slug invades Earth",
+      "author": "Akira Toriyama",
+      "id": 35,
+      "year": 1991
+    },
+    {
+      "title": "Cooler's Revenge Saga",
+      "body": "Cooler seeks revenge for Frieza",
+      "author": "Akira Toriyama",
+      "id": 36,
+      "year": 1991
+    },
+    {
+      "title": "Return of Cooler Saga",
+      "body": "Cooler returns as a metal warrior",
+      "author": "Akira Toriyama",
+      "id": 37,
+      "year": 1992
+    },
+    {
+      "title": "Bojack Unbound Saga",
+      "body": "Bojack's gang threatens Earth's peace",
+      "author": "Akira Toriyama",
+      "id": 38,
+      "year": 1992
+    }
+]}
+  
